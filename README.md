@@ -6,6 +6,10 @@ headingDivider: 3
 paginate: true
 ---
 
+Every building, every 区(ku) in Tokyo, 1989~2011.
+
+Red lines represent changes from 1989 in 2011.
+
 ##
 
 ![bg height:100%](building/%E4%B8%89%E9%B7%B9%E5%B8%82.png) 
