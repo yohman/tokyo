@@ -6,9 +6,11 @@ headingDivider: 3
 paginate: true
 ---
 
+# Tokyo's Urban Transformation
+
 Every building, every 区(ku) in Tokyo, 1989~2011.
 
-Red lines represent changes from 1989 in 2011.
+Red lines represent changes from 1989 to 2011.
 
 ##
 
